@@ -3,6 +3,11 @@
   float: right
 }
 body {font-family: sans-serif;
-    color: aquamarine;
     background-color: deeppink;
 }
+.column {font-style: italic;
+         font-size: 20px;
+         color: darkblue; 
+        }
+head {color: rgb(16, 52, 18);
+}        
