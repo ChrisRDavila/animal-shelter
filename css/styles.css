@@ -27,6 +27,7 @@ body {font-family: sans-serif;
       box-sizing: border-box;
       box-shadow: 10px;
       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      text-align: center;
 }  
 .size {width:100%;
      height: auto;
