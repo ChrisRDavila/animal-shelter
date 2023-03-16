@@ -1,11 +1,8 @@
-.column {
-  width: 300px;
-  float: right
-}
 body {font-family: sans-serif;
     background-color: deeppink;
 }
-.column {border: 2px solid yellow;
+.column {float: left ;
+         border: 2px solid yellow;
          padding: 10px;
          background-color: azure;
          margin-top: 20px;
@@ -14,7 +11,7 @@ body {font-family: sans-serif;
          font-style: italic;
          font-size: 20px;
          color: darkblue;
-         width: 50%;
+         width: 75%;
          height: auto 
         }
 .top {color: rgb(52, 118, 55);
