@@ -16,7 +16,7 @@
 
 ## Description
 
-Fictitious website for a pet adoption website that displays fake dogs for adoption
+Fictitious website for a pet adoption website that displays fake dogs for adoption, cleaned up for repo
 
 ## Setup/Installation Requirements
 
